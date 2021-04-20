@@ -1,7 +1,5 @@
-Esta es la historia de mi vida y obra maestra.
+Hablaremos de mi historia.
 
-creado en vim desde la terminal de bash
-Son un ingenierio y Científico de datos con 25 años. 
-Y esto estudiando en platzi 2 rutas de carrera. 
+Comenzando, soy originario de Tuxpan Michoacán.
 
 -Joaquin Tripp
