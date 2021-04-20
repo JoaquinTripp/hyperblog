@@ -1,5 +1,6 @@
 Esto es una prueba de un archivo
 creado en vim desde la terminal de bash
 Son un ingenierio y Científico de datos con 25 años. 
+Y esto estudiando en platzi 2 rutas de carrera. 
 
 -Joaquin Tripp
