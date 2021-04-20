@@ -1,4 +1,4 @@
-Esta es la historia de mi vida:
+Esta es la historia de mi vida y obra maestra.
 
 creado en vim desde la terminal de bash
 Son un ingenierio y Científico de datos con 25 años. 
