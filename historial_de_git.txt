@@ -1,0 +1,55 @@
+* commit db53be3035ab51d6bb95b148a2bc38bd21c81773
+| Author: Joaquin Tripp <joaquintripp@gmail.com>
+| Date:   Wed Apr 21 11:22:03 2021 -0500
+| 
+|     Cambio en historia, y prueba de git reset HEAD
+| 
+| diff --git a/historia.txt b/historia.txt
+| index e28ea14..36aa2fc 100644
+| --- a/historia.txt
+| +++ b/historia.txt
+| @@ -1,5 +1,6 @@
+|  Hablaremos de mi historia.
+|  
+|  Comenzando, soy originario de Tuxpan Michoacán.
+| +Estudie hasta la secundaria en este mismo municipio
+|  
+|  -Joaquin Tripp
+| 
+* commit 7758658b734eb4bf33e850413ffacad5f589db26
+  Author: Joaquin Tripp <joaquintripp@gmail.com>
+  Date:   Tue Apr 20 15:27:14 2021 -0500
+  
+      Cambio historia
+  
+  diff --git a/historia.txt b/historia.txt
+  index 0910aff..e28ea14 100644
+  --- a/historia.txt
+  +++ b/historia.txt
+  @@ -1,7 +1,5 @@
+  -Esta es la historia de mi vida y obra maestra.
+  +Hablaremos de mi historia.
+   
+  -creado en vim desde la terminal de bash
+  -Son un ingenierio y Científico de datos con 25 años. 
+  -Y esto estudiando en platzi 2 rutas de carrera. 
+  +Comenzando, soy originario de Tuxpan Michoacán.
+   
+   -Joaquin Tripp
+  
+* commit 35085431163c4244518de17997e782807dde6dc0
+  Author: Joaquin Tripp <joaquintripp@gmail.com>
+  Date:   Mon Apr 19 17:45:42 2021 -0500
+  
+      cambios en archivo de historia para agregar mas detalles
+  
+  diff --git a/historia.txt b/historia.txt
+  index 39649ff..8600b3f 100644
+  --- a/historia.txt
+  +++ b/historia.txt
+  @@ -1,4 +1,5 @@
+   Esto es una prueba de un archivo
+   creado en vim desde la terminal de bash
+  +Son un ingenierio y Científico de datos con 25 años. 
+   
+   -Joaquin Tripp
