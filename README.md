@@ -1,4 +1,4 @@
-# hyperblog :tw-1f383:
+# hyperblog 🎃
 Un repositorio para un blog increíble del curso de Git y Github de Platzi
 
 >El curso de Git y Github de Platzi es lo que me hacía falta para mejorar mis condiciones y oportunidades laborales en el mundo del Data Science
